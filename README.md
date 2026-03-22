@@ -1,4 +1,4 @@
-# Bacterial DNA methylation variation under various stressers
+# _Escherichia coli_ DNA methylation varies under various stressers
 This is a study to identify the genome-wide bacterial🦠 DNA methylation variation under different stressers using Oxford Nanopore sequencing.
 
 **🧂Section 1: Regional DNA methlyaion variation:**
